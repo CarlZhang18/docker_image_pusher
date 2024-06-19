@@ -10,3 +10,6 @@ php
 nextcloud
 homeassistant/home-assistant
 homebridge/homebridge
+busybox
+docker/dockerfile
+docker/compose
