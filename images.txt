@@ -14,3 +14,4 @@ busybox
 docker/dockerfile
 docker/compose
 portainer/portainer
+portainer/portainer-ce
