@@ -5,3 +5,8 @@ pytorch/pytorch
 grafana/grafana
 mysql
 mariadb
+tomcat
+php
+nextcloud
+homeassistant/home-assistant
+homebridge/homebridge
